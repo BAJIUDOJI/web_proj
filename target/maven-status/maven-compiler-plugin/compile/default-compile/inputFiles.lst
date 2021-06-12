@@ -1,0 +1,10 @@
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/Application.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/domain/User.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/config/WebSecurityConfig.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/domain/Message.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/config/MvcConfig.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/domain/Role.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/repos/MessageRepo.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/controller/MainController.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/repos/UserRepo.java
+/Users/imac/Documents/JavaProjects/web_proj/src/main/java/org/example/web_proj/controller/RegistrationController.java

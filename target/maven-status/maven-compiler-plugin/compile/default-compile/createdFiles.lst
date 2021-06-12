@@ -1,0 +1,10 @@
+org/example/web_proj/controller/RegistrationController.class
+org/example/web_proj/controller/MainController.class
+org/example/web_proj/repos/MessageRepo.class
+org/example/web_proj/domain/Message.class
+org/example/web_proj/config/WebSecurityConfig.class
+org/example/web_proj/Application.class
+org/example/web_proj/domain/User.class
+org/example/web_proj/domain/Role.class
+org/example/web_proj/config/MvcConfig.class
+org/example/web_proj/repos/UserRepo.class
